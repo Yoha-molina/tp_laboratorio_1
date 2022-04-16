@@ -218,20 +218,4 @@ float informarDatos(float valorConTarjetaDebito,
 			valorPrecioUnitario);
 }
 
-//void calcularDatos(int precioAerolinea, int precioLatam, int kilometros,
-//		float * pagoTarjetaDebitoAE, float * pagoTarjetaDebitoLatam,
-//		float * pagoTarjetaDeCreditoAE, float * pagoTarjetaDeCreditoLatam,
-//		float * pagoConBitcoinAE, float * pagoConBitcoinLatam,
-//		float * precioPorKilometrajeAerolinea, float * precioPorKilometrajeLatam
-//	) {
-//	float precioBitcoin = 234324;
-//	*pagoTarjetaDebitoAE = (float)(precioAerolinea -(precioAerolinea *10/100));
-//	*pagoTarjetaDebitoLatam = precioLatam - (precioLatam *10/100);
-//	*pagoTarjetaDeCreditoAE = (precioAerolinea *25/100) + precioAerolinea;
-//	*pagoTarjetaDeCreditoLatam = (precioLatam*25/100) + precioLatam;
-//	*pagoConBitcoinAE = precioAerolinea/precioBitcoin;
-//	*pagoConBitcoinLatam = precioLatam/precioBitcoin;
-//	*precioPorKilometrajeAerolinea = precioAerolinea/kilometros;
-//	*precioPorKilometrajeLatam = precioLatam/kilometros;
-//}
 
